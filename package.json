@@ -6,7 +6,7 @@
     "start": "nodemon app.js"
   },
   "dependencies": {
-    "@googlemaps/google-maps-services-js": "^2.1.2",
+    "@googlemaps/google-maps-services-js": "^3.3.41",
     "@handlebars/allow-prototype-access": "^1.0.3",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
